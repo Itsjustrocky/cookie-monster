@@ -1,0 +1,50 @@
+body{
+    Background-color:#F0E68C;
+    text-align:center;
+    font-family: 'Indie Flower', cursive;
+    -webkit-text-stroke:1px rgb(240, 164, 42);
+    }
+
+    h2{
+        color:black;
+        
+    }
+
+    #cookie1{
+        color:white;
+        -webkit-text-stroke:1px black;
+        
+    }
+
+    #cookie2{
+        color:red;
+        -webkit-text-stroke:1px black;
+        
+    }
+
+    #cookie3{
+        color:brown;
+        -webkit-text-stroke:1px black;
+        
+    }
+
+    #cookie4{
+        color:pink;
+        -webkit-text-stroke:1px black;
+        
+    }
+    #Picture1{
+        border:3px solid black;
+    }
+    #Picture2{
+        border:3px solid black;
+    }
+    #Picture3{
+        border:3px solid black;
+    }
+    #Picture4{
+        border:3px solid black;
+    }
+    #Picture5{
+        border:3px solid black;
+    }
